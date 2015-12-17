@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int print_hello_world(void);
+
 main()
 {
     print_hello_world();
