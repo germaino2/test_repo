@@ -5,8 +5,9 @@ int adder(int,int);
 
 main()
 {
+    int a=4,b=5;
     print_hello_world();
-    adder(4,5);
+    print("%d+%d=%d\n", a,b,adder(a,b));
 }
 
 int adder(int a, int b)
