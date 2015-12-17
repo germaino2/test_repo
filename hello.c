@@ -2,6 +2,7 @@
 
 main()
 {
-    printf("Hello World");
+    printf("Hello World\n");
+    printf("Testing pull request with GitHub\n"),
 }
 
