@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int print_hello_world(void);
+int adder(int,int);
 
 main()
 {
